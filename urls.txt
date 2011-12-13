@@ -1,0 +1,2 @@
+开源工程的cmakelists学习
+http://www.osgvisual.org/projects/osgvisual/
